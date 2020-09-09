@@ -49,7 +49,8 @@ namespace BuddyTask
             else
             {
                 Console.WriteLine("The sum of the input values is : {0}" ,(a+b));
-                Console.WriteLine("The sum of the input values is : {0}", (a*b));
+                Console.WriteLine("The prodduct of the input values is : {0}", (a*b));
+                Console.WriteLine("The difference of the input values is : {0}", (a*b));
             }
         }
 
