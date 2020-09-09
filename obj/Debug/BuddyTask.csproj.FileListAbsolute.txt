@@ -1,0 +1,7 @@
+G:\Task\BuddyTask\BuddyTask\bin\Debug\BuddyTask.exe.config
+G:\Task\BuddyTask\BuddyTask\bin\Debug\BuddyTask.exe
+G:\Task\BuddyTask\BuddyTask\bin\Debug\BuddyTask.pdb
+G:\Task\BuddyTask\BuddyTask\obj\Debug\BuddyTask.csprojAssemblyReference.cache
+G:\Task\BuddyTask\BuddyTask\obj\Debug\BuddyTask.csproj.CoreCompileInputs.cache
+G:\Task\BuddyTask\BuddyTask\obj\Debug\BuddyTask.exe
+G:\Task\BuddyTask\BuddyTask\obj\Debug\BuddyTask.pdb
